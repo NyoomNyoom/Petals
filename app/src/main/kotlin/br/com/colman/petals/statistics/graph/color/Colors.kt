@@ -8,10 +8,10 @@ val colors = mapOf(
   14 to Color.Yellow,
   28 to Color.Red,
   30 to Color.Red,
-  56 to Color.Gray,
-  60 to Color.Gray,
-  84 to Color.DarkGray,
-  90 to Color.DarkGray
+  56 to Color.Cyan,
+  60 to Color.Cyan,
+  84 to Color.Magenta,
+  90 to Color.Magenta
 ).withDefault { Color.Red }
 
 fun createColor(days: Int): Color {
