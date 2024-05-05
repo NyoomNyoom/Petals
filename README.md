@@ -123,3 +123,4 @@ modifications are required, the place to change is there.
 ### Releases Page
 1. Decrypt all git secrets
 2. Run `./gradlew packageGithubReleaseUniversalApk`
+
